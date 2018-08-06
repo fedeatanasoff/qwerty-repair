@@ -28,14 +28,13 @@
     {
       "image": "img/f3.png",
       "description":
-        "Reemplazamos tu componente dañado y ofrecemos garantias por los mismos.",
+        "Reinstalacion de sistemas operativos, programas, backups, cambio y/o reparacion de componentes defectuosos ",
       "title": "Reparacion"
     },
     {
-      "image": "img/confi.png",
-      "description":
-        "Nos manejamos con total confidencialidad sobre tus archivos.",
-      "title": "Confidencialidad"
+      "image": "img/garantia.png",
+      "description": "Todos nuestros trabajos cuentan con garantia.",
+      "title": "Garantia"
     }
   ]
 }
