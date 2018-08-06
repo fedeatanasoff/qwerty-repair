@@ -1,0 +1,41 @@
+{
+  "title": "ceres",
+  "servicios": [
+    {
+      "image": "img/o3.png",
+      "description":
+        "De acuerdo a las caracteristicas de tu equipo lo configuramos para que pueda dar el maximo",
+      "title": "Mantenimiento"
+    },
+    {
+      "image": "img/o4.png",
+      "description":
+        "Sin cargo, ya sea para nuestros trabajos de reparacion como para el armado de un nuevo equipo.",
+      "title": "Presupuestos"
+    },
+    {
+      "image": "img/o5.png",
+      "description":
+        "Despejamos todas tus dudas, estamos siempre disponibles para ayudarte.",
+      "title": "Asesoramiento"
+    },
+    {
+      "image": "img/o1.png",
+      "description":
+        "Decile adios a ese virus, publicidad o programa que te trae dolores de cabeza.",
+      "title": "Limpieza de Virus"
+    },
+    {
+      "image": "img/f3.png",
+      "description":
+        "Reemplazamos tu componente dañado y ofrecemos garantias por los mismos.",
+      "title": "Reparacion"
+    },
+    {
+      "image": "img/confi.png",
+      "description":
+        "Nos manejamos con total confidencialidad sobre tus archivos.",
+      "title": "Confidencialidad"
+    }
+  ]
+}
