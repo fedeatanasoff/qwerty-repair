@@ -2,6 +2,4 @@
 
 # Sitio web realizado con Node, Express y ejs
 
-npm install
-
-npm start
+- demo https://qwerty-repair.herokuapp.com/
